@@ -1,0 +1,1 @@
+https://www.linkedin.com/pulse/future-devops-trends-2019-barkha-patel-/

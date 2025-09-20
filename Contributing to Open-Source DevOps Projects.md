@@ -1,0 +1,1 @@
+https://www.makeuseof.com/how-to-contribute-to-open-source-projects/

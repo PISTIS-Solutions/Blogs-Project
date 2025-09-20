@@ -1,0 +1,1 @@
+https://collabnix.com/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/

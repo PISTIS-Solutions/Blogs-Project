@@ -1,0 +1,1 @@
+https://vlinkinfo.com/blog/devops-vs-traditional-it-operations

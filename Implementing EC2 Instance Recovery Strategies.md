@@ -1,0 +1,1 @@
+https://cloudian.com/guides/disaster-recovery/disaster-recovery-on-aws-4-strategies-and-how-to-deploy-them/
