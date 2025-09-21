@@ -1,0 +1,1 @@
+https://www.headspin.io/blog/devops-test-automation-a-comprehensive-overview
