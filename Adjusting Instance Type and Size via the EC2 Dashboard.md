@@ -69,15 +69,15 @@ solutions efficiently. Here's how you can add or modify EBS volumes:
 
     -   Go to the **Volumes** section under **Elastic Block Store**.
 
-    ```{=html}
-    <!-- -->
-    ```
+    ![EBS-volume](./images/EBS_volume.png)
+
     -   Click **Create Volume**, choose the volume type, size, and
         > Availability Zone that matches your EC2 instance.
 
-    ```{=html}
-    <!-- -->
-    ```
+    ![EBS-create](./images/EBS_create.png)
+
+    ![EBS-options](./images/EBS_options.png)
+
     -   After creating the volume, attach it to your instance by
         > right-clicking the volume, selecting **Attach Volume**, and
         > specifying the instance ID.
